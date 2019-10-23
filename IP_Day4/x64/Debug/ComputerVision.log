@@ -1,0 +1,49 @@
+﻿Build started 14-12-2016 12:51:21.
+     1>Project "C:\Users\sony\documents\visual studio 2013\Projects\ComputerVision\ComputerVision\ComputerVision.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IC:\Ceemple\OpenCV4VS\include /Zi /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\sony\documents\visual studio 2013\Projects\ComputerVision\x64\Debug\ComputerVision.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Ceemple\OpenCV4VS\lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib StatTimer.lib clBLAS.lib clFFT.lib opencv_calib3d300d.lib opencv_core300d.lib opencv_cuda300d.lib opencv_cudaarithm300d.lib opencv_cudabgsegm300d.lib opencv_cudacodec300d.lib opencv_cudafeatures2d300d.lib opencv_cudafilters300d.lib opencv_cudaimgproc300d.lib opencv_cudalegacy300d.lib opencv_cudaoptflow300d.lib opencv_cudastereo300d.lib opencv_cudawarping300d.lib opencv_cudev300d.lib opencv_features2d300d.lib opencv_flann300d.lib opencv_highgui300d.lib opencv_imgcodecs300d.lib opencv_imgproc300d.lib opencv_ml300d.lib opencv_objdetect300d.lib opencv_photo300d.lib opencv_shape300d.lib opencv_stitching300d.lib opencv_superres300d.lib opencv_ts300d.lib opencv_video300d.lib opencv_videoio300d.lib opencv_videostab300d.lib opengl32.lib glu32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\sony\documents\visual studio 2013\Projects\ComputerVision\x64\Debug\ComputerVision.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\sony\documents\visual studio 2013\Projects\ComputerVision\x64\Debug\ComputerVision.lib" /MACHINE:X64 "x64\Debug\400X400 blue window.obj"
+         x64\Debug\apple.obj
+         "x64\Debug\BFS(queue).obj"
+         x64\Debug\black=white.obj
+         "x64\Debug\canny(colored).obj"
+         x64\Debug\canny.obj
+         x64\Debug\centeredcolorblock.obj
+         "x64\Debug\centre of mass.obj"
+         x64\Debug\chessboard.obj
+         "x64\Debug\detecting corners.obj"
+         "x64\Debug\DFS(stack).obj"
+         x64\Debug\Edges.obj
+         "x64\Debug\enlarging image.obj"
+         x64\Debug\errosion_dilation2.obj
+         x64\Debug\errosion_dilation1.obj
+         x64\Debug\errosion_dilation3.obj
+         x64\Debug\errosion_dilation4.obj
+         x64\Debug\fillbucket.obj
+         "x64\Debug\filter(mean).obj"
+         "x64\Debug\Gaussian Filter.obj"
+         "x64\Debug\filter(median).obj"
+         x64\Debug\greyscale2binary.obj
+         "x64\Debug\histogram(rgb).obj"
+         x64\Debug\histogram.obj
+         x64\Debug\Hough.obj
+         "x64\Debug\mirror image.obj"
+         x64\Debug\diagonal.obj
+         "x64\Debug\increasing brightness.obj"
+         x64\Debug\main.obj
+         x64\Debug\mouse.obj
+         "x64\Debug\Object Detection.obj"
+         "x64\Debug\rgb2greyscale(mean).obj"
+         x64\Debug\rgb2greyscale.obj
+         x64\Debug\SobelFilter.obj
+         "x64\Debug\trackbar(error).obj"
+         "x64\Debug\trackbar(greyscale).obj"
+         "x64\Debug\trackbar(rgb).obj"
+         ComputerVision.vcxproj -> C:\Users\sony\documents\visual studio 2013\Projects\ComputerVision\x64\Debug\ComputerVision.exe
+     1>Done Building Project "C:\Users\sony\documents\visual studio 2013\Projects\ComputerVision\ComputerVision\ComputerVision.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.52
